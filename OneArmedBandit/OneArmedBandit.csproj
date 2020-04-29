@@ -82,7 +82,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\7_100x125.jpg" />
+    <None Include="Resources\seven.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\cherry_100x125.jpg" />
